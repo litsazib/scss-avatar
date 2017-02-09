@@ -1,0 +1,27 @@
+/*
+	CodingAvatar Bootstrap Scss Theme
+	Author:Roktim Sazib
+	Version:0.0.1
+  Url:http://www.codingavatar.com
+*/
+
+/*BASE - Base style,variable,mixin,etc*/
+
+@import 'base/_variables.scss';
+@import 'base/_mixins.scss';
+@import 'base/_normalize.scss';
+@import 'base/_base.scss';
+
+/*MODULES - Individual site components*/
+
+@import 'modules/_typography.scss';
+@import 'modules/_blocks.scss';
+@import 'modules/_buttons.scss';
+@import 'modules/_section.scss';
+@import 'modules/_components.scss';
+
+/*LAYOUT - Page Layout style*/
+
+@import 'layouts/_nav.scss';
+@import 'layouts/_header.scss';
+@import 'layouts/_footer.scss';

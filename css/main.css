@@ -1,0 +1,44 @@
+/*
+	CodingAvatar Bootstrap Scss Theme
+	Author:Roktim Sazib
+	Version:0.0.1
+  Url:http://www.codingavatar.com
+*/
+/*BASE - Base style,variable,mixin,etc*/
+/*Font Color*/
+/*Background Color*/
+/*cbox Color*/
+/*circle Color*/
+/* line 1, ../scss/base/_normalize.scss */
+h1, h2, h3, h4, h5 {
+  margin-top: 0;
+}
+
+/* line 1, ../scss/base/_base.scss */
+body {
+  font-family: "Segoe UI", "segoe WP", "segoe Reguler", "sans-serif";
+  font-size: 15px;
+  line-height: 1.7em;
+  color: black;
+  background: #0078d7;
+  background: rgba(0, 120, 215, 0.3);
+}
+
+/* line 10, ../scss/base/_base.scss */
+a {
+  color: #00aff0;
+}
+
+/* line 13, ../scss/base/_base.scss */
+ul, li {
+  list-style: none;
+}
+
+/* line 16, ../scss/base/_base.scss */
+input, textarea, button {
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+}
+
+/*MODULES - Individual site components*/
+/*LAYOUT - Page Layout style*/
