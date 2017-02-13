@@ -1,0 +1,25 @@
+Required 
+-Node Js
+-Gulp Js
+-----------------------------------------
+Stap 1:Install Noad JS from this link-https://nodejs.org/en/
+#after finished install node.js globlay,open git bash or any commandline editor-wright flowing this command 
+Node Js Installation Check
+=========================
+$node -v
+$npm -v
+
+Stap 2:Install Gulp JS from this link-https://github.com/gulpjs/gulp/blob/master/docs/getting-
+##after finished install gulp.js globlay,open git bash or any commandline editor-wright flowing this command 
+GulpJs Installation Check
+=========================
+$gulp
+
+Stap:3
+-go to project root directory like scss-avatar/
+-open git bash or commandline 
+-wright flowing this command stap by stap
+-$npm update 
+-$npm install gulp-newer --save-dev
+-$ npm install --save-dev gulp-imagemin
+
